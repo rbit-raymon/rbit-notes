@@ -40,7 +40,9 @@
     "pages": [],
     "creationTimestamp": 1622202881551,
     "jwtSecretKey": "YmZiYmNmNTllNzIxM2MxM2M4OWU3Y2ExZDllZTZlYjMyMWNlOWZlZWM1NWI0YmU0ZjFhZjVkYTgyYzNjZmU4YTliZGI3MGNlMTA0YjFiODNkNTM3Y2UzYjhhODQ0ZDRmZGJhOTNmYWUxZGIwM2Y3Y2ZmZjYwZjA4YjE2NWZlOWY=",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Note"],
+    "lastLiquibaseTimestamp": 1622202950000
   },
   "git-provider": "GitHub",
   "git-company": "rbit-raymon",

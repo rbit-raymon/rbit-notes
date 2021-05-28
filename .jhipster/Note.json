@@ -1,0 +1,18 @@
+{
+  "name": "Note",
+  "fields": [],
+  "relationships": [],
+  "entityTableName": "note",
+  "dto": "no",
+  "pagination": "no",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "applications": "*",
+  "microserviceName": "rbitNotes",
+  "clientRootFolder": "rbitNotes",
+  "databaseType": "sql",
+  "changelogDate": "20210528115550"
+}
